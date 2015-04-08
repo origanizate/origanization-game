@@ -1,12 +1,4 @@
-//
-//  CSystemControl.cpp
-//  elventProgram
-//
-//  Created by Student on 15-4-7.
-//  Copyright (c) 2015年 Student. All rights reserved.
-//
 
-#include "CSystemControl.h"
 //yuhjihahfdnjdnff
 CSystemControl * CSystemControl::_instance = NULL;
 CSystemControl * CSystemControl::Instance()
