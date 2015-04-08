@@ -1,5 +1,5 @@
 //fshdgfdoigsghrtgre
-//WWW
+//WWW热踏入踏入
 CSystemControl * CSystemControl::_instance = NULL;
 CSystemControl * CSystemControl::Instance()
 {
