@@ -1,5 +1,5 @@
 //fshdgfdoigsghrtgre
-//gtfeghjfdskgflg
+//gtfeghjfdskgflg退热贴玩儿同仁堂
 CSystemControl * CSystemControl::_instance = NULL;
 CSystemControl * CSystemControl::Instance()
 {
