@@ -7,6 +7,7 @@
 //
 
 #include "CSystemControl.h"
+//yuhjihahfdnjdnff
 CSystemControl * CSystemControl::_instance = NULL;
 CSystemControl * CSystemControl::Instance()
 {
