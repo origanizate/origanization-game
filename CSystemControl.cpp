@@ -1,5 +1,5 @@
 //fshdgfdoigsghrtgre
-
+//gtfeghjfdskgflg
 CSystemControl * CSystemControl::_instance = NULL;
 CSystemControl * CSystemControl::Instance()
 {
