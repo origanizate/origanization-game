@@ -12,7 +12,7 @@ CSystemControl * CSystemControl::Instance()
 }
 CSystemControl::~CSystemControl()
 {
-    //释放开辟空间的属性
+    
     destroy();
     cout<<"destroy"<<endl;
 }
