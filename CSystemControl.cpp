@@ -1,5 +1,9 @@
 //fshdgfdoigsghrtgre
-
+<<<<<<< HEAD
+//WWW
+=======
+//sghfgjdsfkgfdg
+>>>>>>> FETCH_HEAD
 CSystemControl * CSystemControl::_instance = NULL;
 CSystemControl * CSystemControl::Instance()
 {
